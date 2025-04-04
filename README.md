@@ -52,10 +52,6 @@ The notebook performs the following steps:
 - **API Credentials:** Make sure your IBM WatsonX credentials are valid and that you have access to the specified model.
 - **Repository Access:** The notebook automatically clones the repository. Verify that the repository URL is accessible and that your Colab environment has the necessary permissions.
 
-## License
-
-This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
@@ -67,5 +63,3 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 - Open-source packages: FAISS, Sentence Transformers, and Ansible.
 
 ---
-
-Happy automating with Ansible!
